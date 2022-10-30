@@ -59,3 +59,16 @@ footer {
         align-items: center;
     }
 }
+
+/* MEDIA QUERY FOR MEDIUM DEVICES */
+@media screen and (min-width: 601px) and (max-width: 1024px){
+    .share-icon {
+        float: right;
+        position: absolute;
+        right: 300px;
+    }
+
+  .container {
+      width: 90%;
+  }
+}

@@ -6,7 +6,7 @@ const App = () => {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/zuri-task-one" element={<Home />} />
       </Routes>
     </Router>
   );
