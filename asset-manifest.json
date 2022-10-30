@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/AtumaDavid.github.io/zuri-task-one/static/css/main.b1d33c08.css",
+    "main.js": "/AtumaDavid.github.io/zuri-task-one/static/js/main.ea7b44a5.js",
+    "static/media/ingressive.svg": "/AtumaDavid.github.io/zuri-task-one/static/media/ingressive.601ff0479d970c740e8b7d7ba7821548.svg",
+    "static/media/zuri.svg": "/AtumaDavid.github.io/zuri-task-one/static/media/zuri.22d4298a15b0797cf13152b0b88226c6.svg",
+    "static/media/slack.svg": "/AtumaDavid.github.io/zuri-task-one/static/media/slack.9a18f218b72bb4da25decd6277173699.svg",
+    "static/media/github.svg": "/AtumaDavid.github.io/zuri-task-one/static/media/github.1e21b16bae9edfefd2c4397a14be399a.svg",
+    "static/media/shareSmall.svg": "/AtumaDavid.github.io/zuri-task-one/static/media/shareSmall.ef0667842321f70b92ece6b332a6dc6f.svg",
+    "static/media/shareBig.svg": "/AtumaDavid.github.io/zuri-task-one/static/media/shareBig.8b4369de8ab30a8ae240d027dafeccf0.svg",
+    "index.html": "/AtumaDavid.github.io/zuri-task-one/index.html",
+    "main.b1d33c08.css.map": "/AtumaDavid.github.io/zuri-task-one/static/css/main.b1d33c08.css.map",
+    "main.ea7b44a5.js.map": "/AtumaDavid.github.io/zuri-task-one/static/js/main.ea7b44a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1d33c08.css",
+    "static/js/main.ea7b44a5.js"
+  ]
+}
