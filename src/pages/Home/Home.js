@@ -11,13 +11,13 @@ const Home = () => {
   return (
     <div className="container">
       <div>
-        <a href="#">
-          <img src={shareBig} className="share-icon" />
+        <a href="https://app.slack.com/client/T042F7V19Q8/C041JU70S5U">
+          <img src={shareBig} className="share-icon" alt="share" />
         </a>
       </div>
       <div>
-        <a href="#">
-          <img src={shareSmall} className="share-iconn" />
+        <a href="https://app.slack.com/client/T042F7V19Q8/C041JU70S5U">
+          <img src={shareSmall} className="share-iconn" alt="share" />
         </a>
       </div>
       <div className="profile">
@@ -31,7 +31,7 @@ const Home = () => {
       </div>
 
       {/* link buttons */}
-      <a href="https://twitter.com/?utm_source=homescreen&utm_medium=shortcut">
+      <a href="https://twitter.com/home">
         <div className="btn">
           <button>
             <h2>Twitter Link</h2>
@@ -76,7 +76,7 @@ const Home = () => {
 
       {/* logos */}
       <div className="logo">
-        <a href="#">
+        <a href="https://app.slack.com/client/T042F7V19Q8/C041JU70S5U">
           <img src={slack} alt="slack" className="" />
         </a>
         <a href="https://github.com/AtumaDavid/zuri-task-one">
