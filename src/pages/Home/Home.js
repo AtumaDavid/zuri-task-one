@@ -25,9 +25,12 @@ const Home = () => {
           src="https://images.pexels.com/photos/1322444/pexels-photo-1322444.jpeg?cs=srgb&dl=pexels-zahaoha-1322444.jpg&fm=jpg"
           alt=""
           className="profile-img"
+          id="profile-img"
         />
-        <h1>d_atuma</h1>
-        <h1 className="slack-username">David Atuma</h1>
+        <h1 id="twitter">d_atuma</h1>
+        <h1 className="slack-username" id="slack">
+          Ikechukwu Atuma
+        </h1>
       </div>
 
       {/* link buttons */}
