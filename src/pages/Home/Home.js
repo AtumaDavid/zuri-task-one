@@ -27,14 +27,14 @@ const Home = () => {
           className="profile-img"
           id="profile-img"
         />
-        <h1 id="twitter">d_atuma</h1>
+        <h1 id="twitter">Atuma</h1>
         <h1 className="slack-username" id="slack">
           Ikechukwu Atuma
         </h1>
       </div>
 
       {/* link buttons */}
-      <a href="https://twitter.com/home">
+      <a href="https://twitter.com/d_atuma">
         <div className="btn">
           <button>
             <h2>Twitter Link</h2>
