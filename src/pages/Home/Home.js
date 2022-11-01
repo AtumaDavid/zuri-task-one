@@ -27,7 +27,7 @@ const Home = () => {
           className="profile-img"
           id="profile-img"
         />
-        <h1 id="twitter">Atuma</h1>
+        <h1 id="twitter">Ikechukwu Atuma</h1>
         <h1 className="slack-username" id="slack">
           Ikechukwu Atuma
         </h1>
